@@ -1,0 +1,15 @@
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\Syrchyk\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
